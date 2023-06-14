@@ -258,13 +258,13 @@ img {
   justify-self: start;
   justify-content: start;
   font-weight: 700;
-  color: aqua;
+  color: rgb(25, 180, 180);
 }
-p{
+.pq1{
   justify-self: start;
   justify-content: start;
 
-  color: aqua;
+  color: rgb(131, 184, 184);
 }
 
 .header .link {
