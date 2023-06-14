@@ -19,6 +19,7 @@ function NavBar({ onSearch, cartItemCount })  {
                     <div className="grid">
                         <Link to="/" className="link">
                             <h1 className="brand">E-commerce</h1>
+                            <p>Develop By Santosh Maurya</p>
                         </Link>
                         <div className="formContainer">
                             <form className="search">

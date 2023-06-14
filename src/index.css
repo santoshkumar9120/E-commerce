@@ -239,7 +239,7 @@ img {
 }
 
 .wrapper {
-  background-color: #007fff;
+  background-color: #032722;
   color: #fff;
   text-align: center;
 }
@@ -258,6 +258,13 @@ img {
   justify-self: start;
   justify-content: start;
   font-weight: 700;
+  color: aqua;
+}
+p{
+  justify-self: start;
+  justify-content: start;
+
+  color: aqua;
 }
 
 .header .link {
@@ -279,8 +286,11 @@ img {
 .search-btn {
   border: solid 2px #fff;
   padding: 0 10px;
-  border-radius: 15px;
+ width: 80px;
+ height: 40px;
   cursor: pointer;
+  border-radius: 12px;
+  margin-top: 5px;
 }
 
 .form-control {
